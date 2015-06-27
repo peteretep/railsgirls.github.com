@@ -81,7 +81,6 @@ rails new railsgirls-galway-2014
     </div>
 
 {% highlight sh %}
-rvm rubygems latest
 cd railsgirls-galway-2014
 {% endhighlight %}
 
